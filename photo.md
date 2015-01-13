@@ -2,7 +2,7 @@
 layout: barebones
 no_footer: true
 wide_layout: true
-title: Flickr
+title: Photographs
 description: Photographs
 ios_app_name: photo
 ---
