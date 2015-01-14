@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-<img style="float: right" src="/assets/swj01.jpg" height="40%" width="40%">
+<img style="float: right" src="https://farm9.staticflickr.com/8573/16267731841_a876834236.jpg" height="40%" width="40%">
 
 I am an astrophysicist at the [University of Victoria](http://www.uvic.ca/)
 in British Columbia, Canada, researching the evolution and explosion of
