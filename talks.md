@@ -208,7 +208,7 @@ Garching, Germany.
 
 2012.03.12-16
 <br>
-Life at the edge: Progenitors of the lowest mass core-collapse supernovae
+__Life at the edge: Progenitors of the lowest mass core-collapse supernovae__
 
 IAU Symposium 279: "Death of Massive Stars: Supernovae and Gamma-Ray Bursts"
 <br>
