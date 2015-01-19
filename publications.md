@@ -4,12 +4,15 @@ title: Publications
 permalink: /publications/
 ---
 
-__Code dependencies of pre-supernova evolution and nucleosynthesis in massive stars: evolution to the end of core helium burning__ [ADS](http://adsabs.harvard.edu/abs/2015MNRAS.447.3115J) | [arXiv](http://arxiv.org/abs/1412.6518)
+__Code dependencies of pre-supernova evolution and nucleosynthesis in massive stars
+: evolution to the end of core helium burning__ | 
+[ADS](http://adsabs.harvard.edu/abs/2015MNRAS.447.3115J)
+[arXiv](http://arxiv.org/abs/1412.6518)
 
 __S. Jones__, R. Hirschi, Pignatari, M., Heger, A., Georgy, C., Nishimura, N,
 Fryer, C. & Herwig, F. __(2015)__
 
-Accepted for publication in _Monthly Notices of the Royal Astronomical Society_
+_Monthly Notices of the Royal Astronomical Society, 447, 4, 3115_
 
 ---
 
