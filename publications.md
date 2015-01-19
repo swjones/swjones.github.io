@@ -7,7 +7,7 @@ permalink: /publications/
 __Code dependencies of pre-supernova evolution and nucleosynthesis in massive stars:
 evolution to the end of core helium burning__
 | [ADS](http://adsabs.harvard.edu/abs/2015MNRAS.447.3115J)
- [arXiv](http://arxiv.org/abs/1412.6518)
+[arXiv](http://arxiv.org/abs/1412.6518)
 
 __S. Jones__, R. Hirschi, M. Pignatari, A. Heger, C. Georgy, N. Nishimura,
 C. Fryer & F. Herwig __(2015)__
@@ -26,7 +26,9 @@ _Proceedings of Science, XIII Nuclei in the Cosmos,7-11 July, 2014, Debrecen, Hu
 ---
 
 __The final fate of stars that ignite neon and oxygen off-center:
-electron capture or iron core-collapse supernova?__ | [ADS](http://adsabs.harvard.edu/abs/2014ApJ...797...83J)
+electron capture or iron core-collapse supernova?__
+| [ADS](http://adsabs.harvard.edu/abs/2014ApJ...797...83J)
+[arXiv](http://arxiv.org/abs/1412.2878)
 
 __S. Jones__, R. Hirschi & K. Nomoto __(2014)__
 
