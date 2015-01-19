@@ -7,24 +7,17 @@ permalink: /about/
 
 <img style="float: right" src="https://farm9.staticflickr.com/8573/16267731841_a876834236.jpg" height="40%" width="40%">
 
-I am an astrophysicist at the [University of Victoria](http://www.uvic.ca/)
-in British Columbia, Canada, researching the evolution and explosion of
-stars and the origin of the elements. At UVic, I am part of
-[Falk Herwig](http://www.astro.uvic.ca/~fherwig)'s [Computational
-Stellar Astrophysics](http://csa.phys.uvic.ca/) group.
+Prior to my position at UVic, I did my Ph.D. in physics at
+[Keele University](http://www.keele.ac.uk/) under the supervision of
+[Dr. Raphael Hirschi](http://www.astro.keele.ac.uk/~hirschi).
 
 I was recently awarded a [Humboldt post-doctoral research
 fellowship](http://www.humboldt-foundation.de).
 Hence, I will soon be leaving beautiful British Columbia for
 beautiful Heidelberg, Germany.
-
 In Heidelberg, I will join [Fritz Röpke](http://www.friedrich-roepke.de/)'s
 group at the [Heidelberg Institute for Theoretical
 Studies](http://www.h-its.org/english/research/tap/) (HITS).
-
-I did my Ph.D. in physics at [Keele University](http://www.keele.ac.uk/)
-under the supervision of
-[Dr. Raphael Hirschi](http://www.astro.keele.ac.uk/~hirschi).
 
 A large part of my work involves performing computer simulations.
 
