@@ -17,7 +17,8 @@ _Monthly Notices of the Royal Astronomical Society, 447, 4, 3115_
 ---
 
 __Hybrid C-O-Ne White Dwarfs as Progenitors of Diverse SNe Ia__
-| [arXiv](http://arxiv.org/abs/1411.1471)
+| [ADS](http://adsabs.harvard.edu/abs/2015MNRAS.447.2696D)
+[arXiv](http://arxiv.org/abs/1411.1471)
 
 P\. Denisenkov, J. W. Truran, F. Herwig, __S. Jones__, B. Paxton, K. Nomoto, T. Suzuki & H. Toki __(2014)__
 
