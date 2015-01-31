@@ -17,8 +17,7 @@ _Monthly Notices of the Royal Astronomical Society, 447, 4, 3115_
 ---
 
 __Hybrid C-O-Ne White Dwarfs as Progenitors of Diverse SNe Ia__
-| [ADS](http://adsabs.harvard.edu/abs/2015MNRAS.447.2696D)
-[arXiv](http://arxiv.org/abs/1411.1471)
+| [arXiv](http://arxiv.org/abs/1411.1471)
 
 P\. Denisenkov, J. W. Truran, F. Herwig, __S. Jones__, B. Paxton, K. Nomoto, T. Suzuki & H. Toki __(2014)__
 
@@ -38,11 +37,12 @@ _The Astrophysical Journal, 797, 83_
 ---
 
 __Hybrid C-O-Ne white dwarfs as progenitors of type Ia supernovae: dependence
-on Urca process and mixing assumptions__ | [arXiv](http://arxiv.org/abs/1407.0248)
+on Urca process and mixing assumptions__ | [ADS](http://adsabs.harvard.edu/abs/2015MNRAS.447.2696D)
+[arXiv](http://arxiv.org/abs/1407.0248)
 
 P\. Denisenkov, J. W. Truran, F. Herwig, __S. Jones__, K. Nomoto, T. Suzuki & H. Toki __(2014)__
 
-Accepted for publication in _Monthly Notices of the Royal Astronomical Society_
+_Monthly Notices of the Royal Astronomical Society, 447, 2696_
 
 ---
 
