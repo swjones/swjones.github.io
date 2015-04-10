@@ -9,7 +9,7 @@ permalink: /about/
 <img style="float: right" src="https://farm9.staticflickr.com/8573/16267731841_a876834236.jpg" height="40%" width="40%">
 -->
 
-<img style="float: right" src="https://lh3.googleusercontent.com/-BwrMCFwNij0/VSf_8lMVKOI/AAAAAAAAAJk/ZSBmmx2jmaE/s144/swj01.jpg" height="40%" width="40%">
+<img style="float: right" src="https://lh3.googleusercontent.com/-BwrMCFwNij0/VSf_8lMVKOI/AAAAAAAAAJk/ZSBmmx2jmaE/s800/swj01.jpg" height="40%" width="40%">
 
 <!---
 <table style="width:auto;"><tr><td><a href="https://picasaweb.google.com/lh/photo/_yLB4B0u2mO70HY7rxLwqtMTjNZETYmyPJy0liipFm0?feat=embedwebsite"><img src="https://lh3.googleusercontent.com/-BwrMCFwNij0/VSf_8lMVKOI/AAAAAAAAAJk/ZSBmmx2jmaE/s144/swj01.jpg" height="96" width="144" /></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">From <a href="https://picasaweb.google.com/113209873730276612077/20150410?authuser=0&feat=embedwebsite">2015-04-10</a></td></tr></table>
