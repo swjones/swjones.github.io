@@ -8,9 +8,9 @@ layout: default
 
 <img style="float: right" src="https://lh5.googleusercontent.com/-TisZQJZpZLY/VSgAbo62d2I/AAAAAAAAAIA/xCnT4ToQe2o/s800/xmas_lights.jpg" height="40%" width="40%">
 
-I am an astrophysicist at the [University of Victoria](http://www.uvic.ca/)
-in British Columbia, Canada, researching the evolution and explosion of
-stars and the origin of the elements. At UVic, I am part of
-[Falk Herwig](http://www.astro.uvic.ca/~fherwig)'s [Computational
-Stellar Astrophysics](http://csa.phys.uvic.ca/) group.
+I am an astrophysicist at [Heidelberg Institute for Theoretical Studies (HITS)](www.h-its.org)
+in Germany, researching the evolution and explosion of
+stars and the origin of the elements.
+At HITS, I am part of Prof. Dr. Fritz R\"{o}pke's
+Physics of Stellar Objects (PSO) research group.
 
