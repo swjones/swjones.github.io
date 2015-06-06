@@ -4,6 +4,47 @@ title: Talks
 permalink: /talks/
 ---
 
+2015.06.01
+<br>
+__Progenitors of electron-capture supernovae__
+
+Invited review talk
+<br>
+Fifty-one Ergs (FOE)
+<br>
+NCSU
+<br>
+Raleigh, North Carolina, USA
+
+---
+
+2015.05.27
+<br>
+__Modelling convection as a diffusive process__
+
+Galactic evolution, Nuclear Astrophysics and Stellar Hydrodynamics (GNASH)
+<br>
+JINA-CEE workshop
+<br>
+University of Victoria
+<br>
+Victoria, BC, Canada
+
+---
+
+2015.05.25
+<br>
+__Hydrogen-ingestion in stars__
+
+Galactic evolution, Nuclear Astrophysics and Stellar Hydrodynamics (GNASH)
+<br>
+JINA-CEE workshop
+<br>
+University of Victoria
+<br>
+Victoria, BC, Canada
+
+---
 
 2014.12.12
 <br>
