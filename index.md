@@ -14,5 +14,5 @@ at [Heidelberg Institute for Theoretical Studies (HITS)](www.h-its.org)
 in Germany, researching the evolution and explosion of
 stars and the origin of the elements.
 At HITS, I am part of Prof. Dr. Fritz Röpke's
-Physics of Stellar Objects (PSO) research group.
+[Physics of Stellar Objects (PSO)](http://www.h-its.org/en/research/pso/) research group.
 
