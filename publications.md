@@ -4,6 +4,16 @@ title: Publications
 permalink: /publications/
 ---
 
+__Uncertainties in Galactic Chemical Evolution Models__
+| [arXiv](http://arxiv.org/abs/1509.06270)
+
+B. C\^{o}t\'{e}, C. Ritter, B. W. O'Shea, F. Herwig, M. Pignatari,
+__S. Jones__, C. Fryer __(2015)__
+
+_Submitted to the Astrophysical Journal_
+
+---
+
 __The i-process and CEMP-r/s stars__
 | [arXiv](http://arxiv.org/abs/1505.05500)
 
