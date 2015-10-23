@@ -4,6 +4,17 @@ title: Publications
 permalink: /publications/
 ---
 
+__H ingestion into He-burning convection zones in super-AGB stellar models
+as a potential site for intermediate neutron-density nucleosynthesis__
+| [arXiv](http://www.google.de)
+
+__S. Jones__, C. Ritter, F. Herwig, C. Fryer, M. Pignarati, M. G. Bertolli,
+B. Paxton __(2015)__
+
+_Monthly Notices of the Royal Astronomical Society, in press_
+
+---
+
 __Uncertainties in Galactic Chemical Evolution Models__
 | [arXiv](http://arxiv.org/abs/1509.06270)
 
