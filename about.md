@@ -33,7 +33,7 @@ Hirschi](http://www.astro.keele.ac.uk/~hirschi).
 I research the evolution and explosion of stars and the origin of the elements.
 A large part of my work involves performing computer simulations.
  
-I am Co-PI of the [NuGrid collaboration](www.nugridstars.org)---an
+I am Co-PI of the [NuGrid collaboration](www.nugridstars.org): an
 international group of scientists working on problems related to stellar
 evolution, supernovae and nucleosynthesis.
 
