@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-__Weak reaction rates of $sd$-shell nuclei with the USDB interaction__
+__Weak reaction rates of *sd*-shell nuclei with the USDB interaction__
 
 __S. Jones__, M. G. Bertolli & C. Johnson __(2015)__
 
