@@ -4,6 +4,14 @@ title: Publications
 permalink: /publications/
 ---
 
+__Weak reaction rates of $sd$-shell nuclei with the USDB interaction__
+
+__S. Jones__, M. G. Bertolli & C. Johnson __(2015)__
+
+_Submitted to Physical Review C_
+
+---
+
 __H ingestion into He-burning convection zones in super-AGB stellar models
 as a potential site for intermediate neutron-density nucleosynthesis__
 | [arXiv](http://www.google.de)
