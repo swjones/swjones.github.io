@@ -56,10 +56,21 @@ _Monthly Notices of the Royal Astronomical Society, 447, 4, 3115_
 
 ---
 
+__Electron Capture and Beta-Decay Rates for the Collapse of O+Ne+Mg Cores__ |
+[ADS](http://adsabs.harvard.edu/abs/2014EPJWC..6607011L)
+
+Y\. H\. Lam, G. Martinez-Pinedo, K. Langanke, S. Jones, R. Hirschi, R. Zegers &
+A. Brown __(2014)__
+
+_European Physical Journal Web of Conferences, 66, 7011_
+
+---
+
 __Hybrid C-O-Ne White Dwarfs as Progenitors of Diverse SNe Ia__
 | [arXiv](http://arxiv.org/abs/1411.1471)
 
-P\. Denisenkov, J. W. Truran, F. Herwig, __S. Jones__, B. Paxton, K. Nomoto, T. Suzuki & H. Toki __(2014)__
+P\. Denisenkov, J. W. Truran, F. Herwig, __S. Jones__, B. Paxton, K. Nomoto, T.
+Suzuki & H. Toki __(2014)__
 
 _Proceedings of Science, XIII Nuclei in the Cosmos, 7-11 July, 2014, Debrecen, Hungary_
 
