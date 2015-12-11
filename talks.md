@@ -4,6 +4,20 @@ title: Talks
 permalink: /talks/
 ---
 
+2015.12.11
+<br>
+__Stars on Death Row__
+
+Invited seminar
+<br>
+Konkoly Observatory
+<br>
+Hungarian Academy of Sciences
+<br>
+Budapest, Hungary
+
+---
+
 2015.06.01
 <br>
 __Progenitors of electron-capture supernovae__
