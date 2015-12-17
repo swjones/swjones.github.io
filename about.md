@@ -29,3 +29,5 @@ international group of scientists working on problems related to stellar
 evolution, supernovae and nucleosynthesis.
 
 I am also interested in hydrodynamic processes operating in stellar interiors.
+
+photo: _Peter Saueressig/HITS_
