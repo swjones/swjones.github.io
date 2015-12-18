@@ -14,7 +14,8 @@ _Submitted to Physical Review C_
 
 __H ingestion into He-burning convection zones in super-AGB stellar models
 as a potential site for intermediate neutron-density nucleosynthesis__
-| [arXiv](http://www.google.de)
+| [ADS](http://adsabs.harvard.edu/abs/2016MNRAS.455.3848J)
+[arXiv](http://arxiv.org/abs/1510.07417)
 
 __S. Jones__, C. Ritter, F. Herwig, C. Fryer, M. Pignarati, M. G. Bertolli,
 B. Paxton __(2015)__
