@@ -20,7 +20,7 @@ as a potential site for intermediate neutron-density nucleosynthesis__
 __S. Jones__, C. Ritter, F. Herwig, C. Fryer, M. Pignarati, M. G. Bertolli,
 B. Paxton __(2015)__
 
-_Monthly Notices of the Royal Astronomical Society, in press_
+_Monthly Notices of the Royal Astronomical Society, 455, 3848_
 
 ---
 
