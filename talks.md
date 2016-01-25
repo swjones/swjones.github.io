@@ -4,6 +4,20 @@ title: Talks
 permalink: /talks/
 ---
 
+2016.01.20
+<br>
+__Stars on Death Row__
+
+Invited seminar
+<br>
+Kavli Institute for the Physics and Mathematics of the Universe
+<br>
+(World Premier Institute)
+<br>
+Tokyo, Japan
+
+---
+
 2015.12.11
 <br>
 __Stars on Death Row__
