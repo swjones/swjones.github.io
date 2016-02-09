@@ -30,4 +30,7 @@ evolution, supernovae and nucleosynthesis.
 
 I am also interested in hydrodynamic processes operating in stellar interiors.
 
+You can read more about me and my work in [this
+article](http://www.h-its.org/news/simulating-the-death-of-stars/).
+
 photo: _Peter Saueressig/HITS_
