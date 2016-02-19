@@ -4,6 +4,16 @@ title: Publications
 permalink: /publications/
 ---
 
+__Do electron-capture supernovae make neutron stars? First multidimensional
+simulations of the oxygen deflagration__
+| [arXiv](http://arxiv.org/abs/1602.05771)
+
+__S. Jones__, F. K. R\"opke, R. Pakmor, I. R. Seitenzahl, S. T. Ohlmann & P. V. F. Edelmann __(2016)__
+
+_Submitted to Astronomy & Astrophysics_
+
+---
+
 __Weak reaction rates of *sd*-shell nuclei with the USDB interaction__
 
 __S. Jones__, M. G. Bertolli & C. Johnson __(2015)__
@@ -35,7 +45,9 @@ _Submitted to the Astrophysical Journal_
 ---
 
 __The i-process and CEMP-r/s stars__
-| [arXiv](http://arxiv.org/abs/1505.05500)
+| [ADS](http://adsabs.harvard.edu/abs/2014nic..confE.145D)
+[arXiv](http://arxiv.org/abs/1505.05500)
+
 
 L\. Dardelet, C. Ritter, P. Prado, E. Heringer, C. Higgs, __S. Jones__,
 P\. Denissenkov, K. Venn, M. Bertolli, M. Pignatari, P. Woodward,
