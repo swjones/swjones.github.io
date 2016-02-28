@@ -16,7 +16,7 @@ _Submitted to Astronomy & Astrophysics_
 
 __Weak reaction rates of *sd*-shell nuclei with the USDB interaction__
 
-__S. Jones__, M. G. Bertolli & C. Johnson __(2015)__
+__S. Jones__, M. G. Bertolli & C. Johnson __(2016)__
 
 _Submitted to Physical Review C_
 
@@ -28,7 +28,7 @@ as a potential site for intermediate neutron-density nucleosynthesis__
 [arXiv](http://arxiv.org/abs/1510.07417)
 
 __S. Jones__, C. Ritter, F. Herwig, C. Fryer, M. Pignarati, M. G. Bertolli,
-B. Paxton __(2015)__
+B. Paxton __(2016)__
 
 _Monthly Notices of the Royal Astronomical Society, 455, 3848_
 
