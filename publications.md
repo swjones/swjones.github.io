@@ -8,7 +8,7 @@ __Do electron-capture supernovae make neutron stars? First multidimensional
 simulations of the oxygen deflagration__
 | [arXiv](http://arxiv.org/abs/1602.05771)
 
-__S. Jones__, F. K. R\"opke, R. Pakmor, I. R. Seitenzahl, S. T. Ohlmann & P. V. F. Edelmann __(2016)__
+__S. Jones__, F. K. Roepke, R. Pakmor, I. R. Seitenzahl, S. T. Ohlmann & P. V. F. Edelmann __(2016)__
 
 _Submitted to Astronomy & Astrophysics_
 
