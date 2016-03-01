@@ -44,19 +44,6 @@ _Submitted to the Astrophysical Journal_
 
 ---
 
-__The i-process and CEMP-r/s stars__
-| [ADS](http://adsabs.harvard.edu/abs/2014nic..confE.145D)
-[arXiv](http://arxiv.org/abs/1505.05500)
-
-
-L\. Dardelet, C. Ritter, P. Prado, E. Heringer, C. Higgs, __S. Jones__,
-P\. Denissenkov, K. Venn, M. Bertolli, M. Pignatari, P. Woodward,
-F\. Herwig __(2015)__
-
-_Proceedings of Science, XIII Nuclei in the Cosmos, 7-11 July, 2014, Debrecen, Hungary_
-
----
-
 __Code dependencies of pre-supernova evolution and nucleosynthesis in massive stars:
 evolution to the end of core helium burning__
 | [ADS](http://adsabs.harvard.edu/abs/2015MNRAS.447.3115J)
@@ -86,6 +73,31 @@ P\. Denisenkov, J. W. Truran, F. Herwig, __S. Jones__, B. Paxton, K. Nomoto, T.
 Suzuki & H. Toki __(2014)__
 
 _Proceedings of Science, XIII Nuclei in the Cosmos, 7-11 July, 2014, Debrecen, Hungary_
+
+---
+
+__The i-process and CEMP-r/s stars__
+| [ADS](http://adsabs.harvard.edu/abs/2014nic..confE.145D)
+[arXiv](http://arxiv.org/abs/1505.05500)
+
+
+L\. Dardelet, C. Ritter, P. Prado, E. Heringer, C. Higgs, __S. Jones__,
+P\. Denissenkov, K. Venn, M. Bertolli, M. Pignatari, P. Woodward,
+F\. Herwig __(2014)__
+
+_Proceedings of Science, XIII Nuclei in the Cosmos, 7-11 July, 2014, Debrecen, Hungary_
+
+---
+
+__Impact of Nuclear Reactions at High Densities on the Fate of
+Intermediate-Mass Stars__
+| [ADS](http://adsabs.harvard.edu/abs/2014nic..confE.125M)
+
+
+H. Moeller, __S. Jones__, T. Fischer, G. Martinez-Pinedo __(2014)__
+
+_Proceedings of Science, XIII Nuclei in the Cosmos, 7-11 July, 2014, Debrecen,
+Hungary_
 
 ---
 
