@@ -4,6 +4,18 @@ title: Talks
 permalink: /talks/
 ---
 
+2016.03.14
+<br>
+__The "Bermuda Triangle": evolution and fate of 8-12 solar-mass stars__
+
+18th Workshop on Nuclear Astrophysics
+<br>
+Ringberg Castle at Lake Tegernsee
+<br>
+Germany
+
+---
+
 2016.01.20
 <br>
 __Stars on Death Row__
