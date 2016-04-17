@@ -4,6 +4,16 @@ title: Publications
 permalink: /publications/
 ---
 
+__Uncertainties in Galactic Chemical Evolution Models__
+| [arXiv](http://arxiv.org/abs/1509.06270)
+
+B. C&ocirc;t&eacute;, C. Ritter, B. W. O'Shea, F. Herwig, M. Pignatari,
+__S. Jones__, C. Fryer __(2016)__
+
+_The Astrophysical Journal, in press_
+
+---
+
 __Do electron-capture supernovae make neutron stars? First multidimensional
 simulations of the oxygen deflagration__
 | [arXiv](http://arxiv.org/abs/1602.05771)
@@ -32,16 +42,6 @@ __S. Jones__, C. Ritter, F. Herwig, C. Fryer, M. Pignatari, M. G. Bertolli,
 B. Paxton __(2016)__
 
 _Monthly Notices of the Royal Astronomical Society, 455, 3848_
-
----
-
-__Uncertainties in Galactic Chemical Evolution Models__
-| [arXiv](http://arxiv.org/abs/1509.06270)
-
-B. C&ocirc;t&eacute;, C. Ritter, B. W. O'Shea, F. Herwig, M. Pignatari,
-__S. Jones__, C. Fryer __(2015)__
-
-_Submitted to the Astrophysical Journal_
 
 ---
 
