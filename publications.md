@@ -4,6 +4,17 @@ title: Publications
 permalink: /publications/
 ---
 
+__Idealised hydrodynamic simulations of turbulent oxygen-burning shell
+convection in 4$\pi$ geometry__
+| [arXiv](http://arxiv.org/abs/1605.03766)
+
+S. Jones, R. Andrassy, S. Sandalski, A. Davis, P. Woodward, F. Herwig
+__(2016)__
+
+_Submitted to Monthly Notices of the Royal Astronomical Society_
+
+---
+
 __Uncertainties in Galactic Chemical Evolution Models__
 | [arXiv](http://arxiv.org/abs/1509.06270)
 
