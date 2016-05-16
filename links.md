@@ -20,7 +20,7 @@ renderering software recommendations:
 * For Mac, I suggest using Mou:
 [http://25.io/mou/](http://25.io/mou/)
 
-* For Linux, I suggest reText:
+* For Linux, I suggest ReText:
 [https://github.com/retext-project/retext](https://github.com/retext-project/retext)
 
 ## Git/GitHub
