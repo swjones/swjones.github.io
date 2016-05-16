@@ -31,14 +31,17 @@ Hirschi](http://www.astro.keele.ac.uk/~hirschi).
 
 # Research
 
-Pictured below are two images from my research. They are volume renderings of
-data from 3D hydrodynamic simulations of a sub-sonic combustion front in a very
-dense oxygen-neon white dwarf star (left) and turbulent convection in the shell
-of a massive star about 10 days before it explodes as a core-collapse
-supernova. The flame (left) is burning oxygen and neon into mostly iron ashes
-(pictured here in red). The convective shell (right) burns oxygen into mostly
-silicon and sulfur. The convection is driven by the release of nuclear binding
-energy from oxygen fusion reactions.
+Pictured below are two images from my research. They are [volume
+renderings](https://en.wikipedia.org/wiki/Volume_rendering) of data from 3D
+hydrodynamic simulations of a sub-sonic combustion front in a very dense
+oxygen-neon [white dwarf](https://en.wikipedia.org/wiki/White_dwarf) (left) and
+turbulent convection in the shell of a massive star about 10 days before it
+explodes as a core-collapse
+[supernova](https://en.wikipedia.org/wiki/Supernova). The flame (left) is
+burning oxygen and neon into mostly iron ashes (pictured here in red). The
+convective shell (right) burns oxygen into mostly silicon and sulfur. The
+convection is driven by the release of nuclear binding energy from oxygen
+fusion reactions.
 
 You can read more about me and my work in [this
 article](http://www.h-its.org/news/simulating-the-death-of-stars/). A list of
