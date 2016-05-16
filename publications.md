@@ -4,186 +4,101 @@ title: Publications
 permalink: /publications/
 ---
 
-__Idealised hydrodynamic simulations of turbulent oxygen-burning shell
-convection in 4$\pi$ geometry__
-| [arXiv](http://arxiv.org/abs/1605.03766)
 
-S. Jones, R. Andrassy, S. Sandalski, A. Davis, P. Woodward, F. Herwig
-__(2016)__
+__2016__  
+"Idealised hydrodynamic simulations of turbulent oxygen-burning shell convection in 4&pi; geometry"  
+[2016arXiv160503766J](http://adsabs.harvard.edu/abs/2016arXiv160503766J)  
+__Jones, S.__, Andrassy, R., Sandalski, S., Davis, A., Woodward, P., and Herwig, F.  
+_ArXiv e-prints,   arXiv:1605.03766_ 
+
+__2016__  
+"H ingestion into He-burning convection zones in super-AGB stellar models as a potential site for intermediate neutron-density nucleosynthesis"  
+[2016MNRAS.455.3848J](http://adsabs.harvard.edu/abs/2016MNRAS.455.3848J)  
+__Jones, S.__, Ritter, C., Herwig, F., Fryer, C., Pignatari, M., Bertolli, M. G., and Paxton, B.  
+_Monthly Notices of the Royal Astronomical Society,  455,  3848_ 
+
+__2016__  
+"Do electron-capture supernovae make neutron stars? First multidimensional hydrodynamic simulations of the oxygen deflagration"  
+[2016arXiv160205771J](http://adsabs.harvard.edu/abs/2016arXiv160205771J)  
+__Jones, S.__, Roepke, F. K., Pakmor, R., Seitenzahl, I. R., Ohlmann, S. T., and Edelmann, P. V. F.  
+_ArXiv e-prints,   arXiv:1602.05771_ 
+
+__2015__  
+"Uncertainties in Galactic Chemical Evolution Models"  
+[2015arXiv150906270C](http://adsabs.harvard.edu/abs/2015arXiv150906270C)  
+C&ocirc;t&eacute;, B., Ritter, C., O'Shea, B. W., Herwig, F., Pignatari, M., __Jones, S.__, and Fryer, C.  
+_ArXiv e-prints,   arXiv:1509.06270_ 
+
+__2015__  
+"Code dependencies of pre-supernova evolution and nucleosynthesis in massive stars: evolution to the end of core helium burning"  
+[2015MNRAS.447.3115J](http://adsabs.harvard.edu/abs/2015MNRAS.447.3115J)  
+__Jones, S.__, Hirschi, R., Pignatari, M., Heger, A., Georgy, C., Nishimura, N., Fryer, C., and Herwig, F.  
+_Monthly Notices of the Royal Astronomical Society,  447,  3115_ 
+
+__2015__  
+"Hybrid C-O-Ne white dwarfs as progenitors of Type Ia supernovae: dependence on Urca process and mixing assumptions"  
+[2015MNRAS.447.2696D](http://adsabs.harvard.edu/abs/2015MNRAS.447.2696D)  
+Denissenkov, P. A., Truran, J. W., Herwig, F., __Jones, S.__, Paxton, B., Nomoto, K., Suzuki, T., and Toki, H.  
+_Monthly Notices of the Royal Astronomical Society,  447,  2696_ 
+
+__2014__  
+"The Final Fate of Stars that Ignite Neon and Oxygen Off-center: Electron Capture or Iron Core-collapse Supernova?"  
+[2014ApJ...797...83J](http://adsabs.harvard.edu/abs/2014ApJ...797...83J)  
+__Jones, S.__, Hirschi, R., and Nomoto, K.  
+_The Astrophysical Journal,  797,  83_ 
+
+__2014__  
+"Hybrid C-O-Ne White Dwarfs as Progenitors of Diverse SNe Ia"  
+[2014arXiv1411.1471D](http://adsabs.harvard.edu/abs/2014arXiv1411.1471D)  
+Denissenkov, P., Truran, J., Herwig, F., __Jones, S.__, Paxton, B., Nomoto, K., Suzuki, T., and Toki, H.  
+_ArXiv e-prints,   arXiv:1411.1471_ 
+
+__2014__  
+"Uncertainties in Astrophysical &beta;-decay Rates from the FRDM"  
+[2014NDS...120..188B](http://adsabs.harvard.edu/abs/2014NDS...120..188B)  
+Bertolli, M. G., M&ouml;ller, P., and __Jones, S.__  
+_Nuclear Data Sheets,  120,  188_ 
+
+__2014__  
+"Electron Capture and Beta-Decay Rates for the Collapse of O+Ne+Mg Cores"  
+[2014EPJWC..6607011L](http://adsabs.harvard.edu/abs/2014EPJWC..6607011L)  
+Lam, Y. H., Mart&iacute;nez-Pinedo, G., Langanke, K., __Jones, S.__, Hirschi, R., Zegers, R. G. T., and Brown, B. A.  
+_European Physical Journal Web of Conferences,  66,  07011_ 
+
+__2014__  
+"i process and CEMP-s+r stars"  
+[2014nic..confE.145D](http://adsabs.harvard.edu/abs/2014nic..confE.145D)  
+Dardelet, L., Ritter, C., Prado, P., Heringer, E., Higgs, C., Sandalski, S., __Jones, S.__, Denisenkov, P., Venn, K., Bertolli, M., Pignatari, M., Woodward, P., and Herwig, F.  
+_Proceedings of XIII Nuclei in the Cosmos (NIC XIII).~7-11 July, 2014.~Debrecen, Hungary.~Online at <A href=''http://pos.sissa.it/cgi-bin/reader/conf.cgi?confid=204''>http://pos.sissa.it/cgi-bin/reader/conf.cgi?confid=204</A>, id.145,   145_ 
+
+__2014__  
+"Impact of Nuclear Reactions at High Densities on the Fate of Intermediate-Mass Stars"  
+[2014nic..confE.125M](http://adsabs.harvard.edu/abs/2014nic..confE.125M)  
+M&ouml;ller, H., __Jones, S.__, Fischer, T., and Mart&iacute;nez-Pinedo, G.  
+_Proceedings of XIII Nuclei in the Cosmos (NIC XIII).~7-11 July, 2014.~Debrecen, Hungary.~Online at <A href=''http://pos.sissa.it/cgi-bin/reader/conf.cgi?confid=204''>http://pos.sissa.it/cgi-bin/reader/conf.cgi?confid=204</A>, id.125,   125_ 
+
+__2013__  
+"Advanced Burning Stages and Fate of 8-10 M <SUB>&sun;</SUB> Stars"  
+[2013ApJ...772..150J](http://adsabs.harvard.edu/abs/2013ApJ...772..150J)  
+__Jones, S.__, Hirschi, R., Nomoto, K., Fischer, T., Timmes, F. X., Herwig, F., Paxton, B., Toki, H., Suzuki, T., Mart&iacute;nez-Pinedo, G., Lam, Y. H., and Bertolli, M. G.  
+_The Astrophysical Journal,  772,  150_ 
+
+__2013__  
+"Detailed &beta;-transition rates for URCA nuclear pairs in 8-10 solar-mass stars"  
+[2013PhRvC..88a5806T](http://adsabs.harvard.edu/abs/2013PhRvC..88a5806T)  
+Toki, H., Suzuki, T., Nomoto, K., __Jones, S.__, and Hirschi, R.  
+_Physical Review C,  88,  015806_ 
+
+__2013__  
+"NuGrid stellar data set I. Stellar yields from H to Bi for stars with metallicities Z = 0.02 and Z = 0.01"  
+[2013arXiv1307.6961P](http://adsabs.harvard.edu/abs/2013arXiv1307.6961P)  
+Pignatari, M., Herwig, F., Hirschi, R., Bennett, M., Rockefeller, G., Fryer, C., Timmes, F. X., Ritter, C., Heger, A., __Jones, S.__, Battino, U., Dotter, A., Trappitsch, R., Diehl, S., Frischknecht, U., Hungerford, A., Magkotsios, G., Travaglio, C., and Young, P.  
+_ArXiv e-prints,   arXiv:1307.6961_ 
+
+__2012__  
+"Progenitors of electron-capture supernovae"  
+[2012IAUS..279..341J](http://adsabs.harvard.edu/abs/2012IAUS..279..341J)  
+__Jones, S.__, Hirschi, R., Herwig, F., Paxton, B., Timmes, F. X., and Nomoto, K.  
+_Death of Massive Stars: Supernovae and Gamma-Ray Bursts,  279,  341_ 
 
-_Submitted to Monthly Notices of the Royal Astronomical Society_
 
----
-
-__Uncertainties in Galactic Chemical Evolution Models__
-| [arXiv](http://arxiv.org/abs/1509.06270)
-
-B. C&ocirc;t&eacute;, C. Ritter, B. W. O'Shea, F. Herwig, M. Pignatari,
-__S. Jones__, C. Fryer __(2016)__
-
-_The Astrophysical Journal, in press_
-
----
-
-__Do electron-capture supernovae make neutron stars? First multidimensional
-simulations of the oxygen deflagration__
-| [arXiv](http://arxiv.org/abs/1602.05771)
-
-__S. Jones__, F. K. R&ouml;pke, R. Pakmor, I. R. Seitenzahl, S. T. Ohlmann & P. V.
-F. Edelmann __(2016)__
-
-_Submitted to Astronomy & Astrophysics_
-
----
-
-__Weak reaction rates of *sd*-shell nuclei with the USDB interaction__
-
-__S. Jones__, M. G. Bertolli & C. Johnson __(2016)__
-
-_Submitted to Physical Review C_
-
----
-
-__H ingestion into He-burning convection zones in super-AGB stellar models
-as a potential site for intermediate neutron-density nucleosynthesis__
-| [ADS](http://adsabs.harvard.edu/abs/2016MNRAS.455.3848J)
-[arXiv](http://arxiv.org/abs/1510.07417)
-
-__S. Jones__, C. Ritter, F. Herwig, C. Fryer, M. Pignatari, M. G. Bertolli,
-B. Paxton __(2016)__
-
-_Monthly Notices of the Royal Astronomical Society, 455, 3848_
-
----
-
-__Code dependencies of pre-supernova evolution and nucleosynthesis in massive
-stars: evolution to the end of core helium burning__
-| [ADS](http://adsabs.harvard.edu/abs/2015MNRAS.447.3115J)
-[arXiv](http://arxiv.org/abs/1412.6518)
-
-__S. Jones__, R. Hirschi, M. Pignatari, A. Heger, C. Georgy, N. Nishimura,
-C. Fryer & F. Herwig __(2015)__
-
-_Monthly Notices of the Royal Astronomical Society, 447, 4, 3115_
-
----
-
-__Electron Capture and Beta-Decay Rates for the Collapse of O+Ne+Mg Cores__ |
-[ADS](http://adsabs.harvard.edu/abs/2014EPJWC..6607011L)
-
-Y\. H\. Lam, G. Martinez-Pinedo, K. Langanke, S. Jones, R. Hirschi, R. Zegers &
-A. Brown __(2014)__
-
-_European Physical Journal Web of Conferences, 66, 7011_
-
----
-
-__Hybrid C-O-Ne White Dwarfs as Progenitors of Diverse SNe Ia__
-| [arXiv](http://arxiv.org/abs/1411.1471)
-
-P\. Denisenkov, J. W. Truran, F. Herwig, __S. Jones__, B. Paxton, K. Nomoto, T.
-Suzuki & H. Toki __(2014)__
-
-_Proceedings of Science, XIII Nuclei in the Cosmos, 7-11 July, 2014, Debrecen,
-Hungary_
-
----
-
-__The i-process and CEMP-r/s stars__
-| [ADS](http://adsabs.harvard.edu/abs/2014nic..confE.145D)
-[arXiv](http://arxiv.org/abs/1505.05500)
-
-
-L\. Dardelet, C. Ritter, P. Prado, E. Heringer, C. Higgs, __S. Jones__,
-P\. Denissenkov, K. Venn, M. Bertolli, M. Pignatari, P. Woodward,
-F\. Herwig __(2014)__
-
-_Proceedings of Science, XIII Nuclei in the Cosmos, 7-11 July, 2014, Debrecen, Hungary_
-
----
-
-__Impact of Nuclear Reactions at High Densities on the Fate of
-Intermediate-Mass Stars__
-| [ADS](http://adsabs.harvard.edu/abs/2014nic..confE.125M)
-
-
-H. Moeller, __S. Jones__, T. Fischer, G. Martinez-Pinedo __(2014)__
-
-_Proceedings of Science, XIII Nuclei in the Cosmos, 7-11 July, 2014, Debrecen,
-Hungary_
-
----
-
-__The final fate of stars that ignite neon and oxygen off-center:
-electron capture or iron core-collapse supernova?__
-| [ADS](http://adsabs.harvard.edu/abs/2014ApJ...797...83J)
-[arXiv](http://arxiv.org/abs/1412.2878)
-
-__S. Jones__, R. Hirschi & K. Nomoto __(2014)__
-
-_The Astrophysical Journal, 797, 83_
-
----
-
-__Hybrid C-O-Ne white dwarfs as progenitors of type Ia supernovae: dependence
-on Urca process and mixing assumptions__ |
-[ADS](http://adsabs.harvard.edu/abs/2015MNRAS.447.2696D)
-[arXiv](http://arxiv.org/abs/1407.0248)
-
-P\. Denisenkov, J. W. Truran, F. Herwig, __S. Jones__, K. Nomoto, T. Suzuki &
-H. Toki __(2014)__
-
-_Monthly Notices of the Royal Astronomical Society, 447, 2696_
-
----
-
-__Detailed e-capture and beta-decay rates for URCA nuclear pairs in 8 -- 10
-solar-mass stars__
-
-T\. Suzuki, H. Toki, K. Nomoto, __S. Jones__ & R. Hirschi __(2014)__
-
-_Proceedings of OMEG 12_
-
----
-
-__NuGrid stellar data set. I. Stellar yields from H to Bi for stars with
-metallicity Z = 0.02 and Z = 0.01__
-| [arXiv](http://arxiv.org/abs/1307.6961)
-
-M\. Pignatari, F. Herwig, R. Hirschi, M. Bennett, G. Rockefeller, C. Fryer, F.
-X. Timmes, A. Heger, __S. Jones__, U. Battino, C. Ritter, S. Diehl, A. Dotter,
-U. Frischknecht, A. Hungerford, G. Magkotsios, C. Travaglio, & P. Young
-__(2013)__
-
-_The Astrophysical Journal Supplements_, in press.
-
----
-
-__Detailed beta transition rates for URCA nuclear pairs in 8 -- 10 solar-mass
-stars__ | [APS](http://link.aps.org/doi/10.1103/PhysRevC.88.015806)
-
-H\. Toki, T. Suzuki, K. Nomoto, __S. Jones__ & R. Hirschi __(2013)__
-
-_Physical Review C, 88, 1_
-
----
-
-__Advanced burning stages and fate of 8 -- 10 M$$_\odot$$ stars__
-| [ADS](http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1306.2030)
-
-__S. Jones__, R. Hirschi, K. Nomoto, T. Fischer, F. X. Timmes,, F. Herwig, B.
-Paxton, H. Toki, T. Suzuki, G. Martinez-Pinedo, Y. H. Lam & M. G. Bertolli
-__(2013)__
-
-_The Astrophysical Journal, 772, 150_
-
----
-
-__Progenitors of electron-capture supernovae__
-| [ADS](http://adsabs.harvard.edu/abs/2012IAUS..279..341J)
-
-__S. Jones__, R. Hirschi, F. Herwig, B. Paxton, F. X. Timmes & K. Nomoto
-__(2012)__
-
-_Proceedings of the International Astronomical Union, IAU Symposium, Volume
-279: "Death of Massive Stars: Supernovae and Gamma-Ray Bursts", p. 341-342_
