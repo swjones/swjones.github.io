@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
+<img style="float: right" src="../content/DSC_0001.JPG" height="40%" width="40%">
 
-<img style="float: right" src="../content/DSC_0025.JPG" height="40%" width="40%">
 
 I am an astrophysicist and a post-doctoral research fellow of the [Alexander
 von Humboldt Foundation](http://www.humboldt-foundation.de/web/home.html) in
@@ -18,6 +18,8 @@ performing computer simulations.  I am also a Co-PI of the [NuGrid
 collaboration](www.nugridstars.org): an international group of scientists
 working on problems related to stellar evolution, supernovae and
 nucleosynthesis.
+
+<img style="float: right" src="../content/G14-nifs-and-D2-FV-vertical.jpg" height="40%" width="40%">
 
 Prior to my position as an
 [AvH](http://www.humboldt-foundation.de/web/home.html) fellow at
@@ -33,4 +35,10 @@ You can read more about me and my work in [this
 article](http://www.h-its.org/news/simulating-the-death-of-stars/). A list of
 my publications and talks are available via the links at the top of the page.
 
-photo: _Peter Saueressig/HITS_
+---
+
+_photo: Peter Saueressig/HITS (top); S. Jones, F. K. R&ouml;pke, R.  Pakmor, I.
+R. Seitenzahl, S.  T. Ohlmann & P. V. F. Edelmann (2016; [arXiv
+eprints](http://arxiv.org/abs/1602.05771); middle); S. Jones, R. Andrassy, S.
+Sandalski, A. Davis, P. Woodward & F.Herwig (2016; [arXiv
+eprints](http://arxiv.org/abs/1605.03766); bottom)_
