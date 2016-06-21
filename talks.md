@@ -4,6 +4,43 @@ title: Talks
 permalink: /talks/
 ---
 
+2016.09.03
+<br>
+The fate of intermediate-mass stars
+
+Zakopane Conference on Nuclear Physics
+<br>
+Zakopane
+<br>
+Poland
+
+---
+
+2016.06.21
+<br>
+__Simulating the lives and deaths of 8-10 solar-mass stars__
+
+Supernovae, Hypernovae and Binary Driven Hypernovae, An Adriatic Workshop
+<br>
+ICRANet, Pescara
+<br>
+Italy
+
+---
+
+2016.06.02
+<br>
+__Simulating the lives and deaths of 8-10 solar-mass stars using hydrodynamic
+simulations__
+
+Astrophysics seminar
+<br>
+Los Alamos National Laboratory, New Mexico
+<br>
+USA
+
+---
+
 2016.04.14
 <br>
 __Simulating the lives and deaths of 8-10 solar-mass stars__
