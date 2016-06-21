@@ -6,7 +6,7 @@ permalink: /talks/
 
 2016.09.03
 <br>
-The fate of intermediate-mass stars
+__The fate of intermediate-mass stars__
 
 Zakopane Conference on Nuclear Physics
 <br>
