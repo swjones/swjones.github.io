@@ -4,6 +4,11 @@ title: Publications
 permalink: /publications/
 ---
 
+__2016__  
+"Do electron-capture supernovae make neutron stars? First multidimensional hydrodynamic simulations of the oxygen deflagration"  
+[2016arXiv160205771J](http://adsabs.harvard.edu/abs/2016arXiv160205771J)  
+__Jones, S.__, Roepke, F. K., Pakmor, R., Seitenzahl, I. R., Ohlmann, S. T., and Edelmann, P. V. F.  
+_Astronomy & Astrophysics, in press_ 
 
 __2016__  
 "Idealised hydrodynamic simulations of turbulent oxygen-burning shell convection in 4&pi; geometry"  
@@ -12,22 +17,16 @@ __Jones, S.__, Andrassy, R., Sandalski, S., Davis, A., Woodward, P., and Herwig,
 _ArXiv e-prints,   arXiv:1605.03766_ 
 
 __2016__  
+"Uncertainties in Galactic Chemical Evolution Models"  
+[2016ApJ...824...82C](http://adsabs.harvard.edu/abs/2016ApJ...824...82C)  
+C&ocirc;t&eacute;, B., Ritter, C., O'Shea, B. W., Herwig, F., Pignatari, M., __Jones, S.__, and Fryer, C.  
+_The Astrophysical Journal,  824,  82_ 
+
+__2016__  
 "H ingestion into He-burning convection zones in super-AGB stellar models as a potential site for intermediate neutron-density nucleosynthesis"  
 [2016MNRAS.455.3848J](http://adsabs.harvard.edu/abs/2016MNRAS.455.3848J)  
 __Jones, S.__, Ritter, C., Herwig, F., Fryer, C., Pignatari, M., Bertolli, M. G., and Paxton, B.  
 _Monthly Notices of the Royal Astronomical Society,  455,  3848_ 
-
-__2016__  
-"Do electron-capture supernovae make neutron stars? First multidimensional hydrodynamic simulations of the oxygen deflagration"  
-[2016arXiv160205771J](http://adsabs.harvard.edu/abs/2016arXiv160205771J)  
-__Jones, S.__, Roepke, F. K., Pakmor, R., Seitenzahl, I. R., Ohlmann, S. T., and Edelmann, P. V. F.  
-_ArXiv e-prints,   arXiv:1602.05771_ 
-
-__2015__  
-"Uncertainties in Galactic Chemical Evolution Models"  
-[2015arXiv150906270C](http://adsabs.harvard.edu/abs/2015arXiv150906270C)  
-C&ocirc;t&eacute;, B., Ritter, C., O'Shea, B. W., Herwig, F., Pignatari, M., __Jones, S.__, and Fryer, C.  
-_ArXiv e-prints,   arXiv:1509.06270_ 
 
 __2015__  
 "Code dependencies of pre-supernova evolution and nucleosynthesis in massive stars: evolution to the end of core helium burning"  
