@@ -1,8 +1,4 @@
 ---
-layout: page
-title: Publications
-permalink: /publications/
----
 **2017**  
 **Idealized hydrodynamic simulations of turbulent oxygen-burning shell convection in 4π geometry**  
 **Jones, S.**, Andrassy, R., Sandalski, S., Davis, A., Woodward, P., Herwig, F.  
