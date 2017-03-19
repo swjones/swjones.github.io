@@ -1,6 +1,6 @@
 #!/bin/bash
 
-new_ads_query=false
+new_ads_query=true
 
 pubfile="./publications.md"
 pubdir="/home/swj/Documents/publication-list/"
