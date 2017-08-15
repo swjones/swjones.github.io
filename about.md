@@ -6,28 +6,26 @@ permalink: /about/
 
 <img style="float: right" src="../content/DSC_0001.JPG" height="40%" width="40%">
 
-
-I am an astrophysicist and a post-doctoral research fellow of the [Alexander
-von Humboldt Foundation](http://www.humboldt-foundation.de/web/home.html) in
-[Prof. Dr. Fritz Röpke](http://wwwmpa.mpa-garching.mpg.de/~fritz/)'s [Physics
-of Stellar Objects (PSO)](http://www.h-its.org/en/research/pso/) research
-group at the [Heidelberg Institute for Theoretical Studies
-(HITS)](www.h-its.org).  My research focuses on the evolution and explosion of
-stars and the origin of the elements; a large part of which involves
-performing computer simulations.  I am also a Co-PI of the [NuGrid
+I am an astrophysicist and a [Director's
+Fellow](http://www.lanl.gov/careers/career-options/postdoctoral-research/postdoc-program/postdoc-appointment-types.php)
+in the [Computational Physics and Methods
+(CCS-2)](http://www.lanl.gov/org/padste/adtsc/computer-computational-statistical-sciences/computational-physics-methods/index.php)
+Group at [Los Alamos National Laboratory (LANL)](http://www.lanl.gov/) in New
+Mexico, USA. My research focuses on the evolution and explosion of stars and
+the origin of the elements; a large part of which involves performing computer
+simulations.  I am also a Co-PI of the [NuGrid
 collaboration](www.nugridstars.org): an international group of scientists
 working on problems related to stellar evolution, supernovae and
 nucleosynthesis.
 
-Prior to my position as an
-[AvH](http://www.humboldt-foundation.de/web/home.html) fellow at
-[HITS](www.h-its.org), I was a post-doctoral research fellow in [Dr. Falk
-Herwig](www.astro.uvic.ca/~fherwig)'s [Computational Stellar Astrophysics
-(CSA)](http://csa.phys.uvic.ca) research group at the University of Victoria
-in beautiful British Columbia, Canada.
-I did my Ph.D. in physics at [Keele University](http://www.keele.ac.uk/) under
-the supervision of [Dr. Raphael
-Hirschi](http://www.astro.keele.ac.uk/~hirschi).
+Prior to my position as a Director's Fellow at LANL I was an [Alexander von
+Humboldt](http://www.humboldt-foundation.de/web/home.html) Fellow at
+[HITS](www.h-its.org), prior to which I was a post-doctoral research fellow in
+[Dr. Falk Herwig](www.astro.uvic.ca/~fherwig)'s [Computational Stellar
+Astrophysics (CSA)](http://csa.phys.uvic.ca) research group at the University
+of Victoria in beautiful British Columbia, Canada.  I did my Ph.D. in physics
+at [Keele University](http://www.keele.ac.uk/) under the supervision of [Dr.
+Raphael Hirschi](http://www.astro.keele.ac.uk/~hirschi).
 
 # Research
 

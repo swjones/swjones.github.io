@@ -4,18 +4,74 @@ title: Talks
 permalink: /talks/
 ---
 
-2016.09.03
-<br>
-__The fate of intermediate-mass stars__
+Here is a (rather exhaustive) list of talks that I have given over the years,
+including seminars, contributed and invited conference talks and some poster
+contributions.  
+<br><br>
 
-Zakopane Conference on Nuclear Physics
+
+2017.06.18
 <br>
-Zakopane
+__Code developments__
+
+NuGrid Collaboration Meeting 2017
 <br>
-Poland
+MSU
+<br>
+East Lansing, Michigan
+<br>
+USA
 
 ---
+<br>
+2017.05.29
+<br>
+__Modelling stars near the electron-capture supernova limit__
 
+Stellar Hydro Days IV
+<br>
+University of Victoria
+<br>
+Canada
+
+---
+<br>
+2016.12.14
+<br>
+__Supernovae and their progenitor systems__
+
+Physics Seminar
+<br>
+University of Hull
+<br>
+UK
+
+---
+<br>
+2016.12.08
+<br>
+__ONe deflagrations__
+
+11th Bi-annual Wuerzburg Workshop
+<br>
+J-M Universitaet Wuerzburg
+<br>
+Germany
+
+---
+<br>
+2016.11.07
+<br>
+__Convection and deflagrations in the progenitor stars of supernovae__
+
+APEC Seminar
+<br>
+Kavli IPMU
+<br>
+Tokyo, Japan
+
+---
+<br>
 2016.06.21
 <br>
 __Simulating the lives and deaths of 8-10 solar-mass stars__
@@ -27,7 +83,7 @@ ICRANet, Pescara
 Italy
 
 ---
-
+<br>
 2016.06.02
 <br>
 __Simulating the lives and deaths of 8-10 solar-mass stars using hydrodynamic
@@ -40,7 +96,7 @@ Los Alamos National Laboratory, New Mexico
 USA
 
 ---
-
+<br>
 2016.04.14
 <br>
 __Simulating the lives and deaths of 8-10 solar-mass stars__
@@ -52,7 +108,7 @@ TU Darmstadt
 Germany
 
 ---
-
+<br>
 2016.03.14
 <br>
 __The "Bermuda Triangle": evolution and fate of 8-12 solar-mass stars__
@@ -64,7 +120,7 @@ Ringberg Castle at Lake Tegernsee
 Germany
 
 ---
-
+<br>
 2016.02.17
 <br>
 __Stellar modelling__
@@ -76,7 +132,7 @@ GSI, Darmstadt
 Germany
 
 ---
-
+<br>
 2016.01.20
 <br>
 __Stars on Death Row__
@@ -90,7 +146,7 @@ Kavli Institute for the Physics and Mathematics of the Universe
 Tokyo, Japan
 
 ---
-
+<br>
 2015.12.11
 <br>
 __Stars on Death Row__
@@ -104,7 +160,7 @@ Hungarian Academy of Sciences
 Budapest, Hungary
 
 ---
-
+<br>
 2015.06.01
 <br>
 __Progenitors of electron-capture supernovae__
@@ -118,7 +174,7 @@ NCSU
 Raleigh, North Carolina, USA
 
 ---
-
+<br>
 2015.05.27
 <br>
 __Modelling convection as a diffusive process__
@@ -132,7 +188,7 @@ University of Victoria
 Victoria, BC, Canada
 
 ---
-
+<br>
 2015.05.25
 <br>
 __Hydrogen-ingestion in stars__
@@ -146,7 +202,7 @@ University of Victoria
 Victoria, BC, Canada
 
 ---
-
+<br>
 2014.12.12
 <br>
 __Some outstanding problems in the evolution of supernova progenitors__
@@ -158,7 +214,7 @@ California Institute of Technology
 Pasadena, California, USA
 
 ---
-
+<br>
 2014.11.27
 <br>
 __The evolution of supernova progenitors__
@@ -172,7 +228,7 @@ Kavli Institute for the Physics and Mathematics of the Universe
 Tokyo, Japan
 
 ---
-
+<br>
 2014.08.18
 <br>
 __The evolution of supernova progenitors__
@@ -184,7 +240,7 @@ Oak Ridge National Laboratory
 Tennessee, USA
 
 ---
-
+<br>
 2014.08.07
 <br>
 __Progenitors of electron-capture supernovae__
@@ -196,7 +252,7 @@ Institute for Nuclear Theory, University of Washington
 Seattle, USA
 
 ---
-
+<br>
 2014.01.21
 <br>
 __Evolution of electron capture supernova progenitors__
@@ -208,7 +264,7 @@ Institut für Kernphysik Theoriezentrum, TU Darmstadt
 Darmstadt, Germany
 
 ---
-          
+<br>
 2013.06.18
 <br>
 __Evolution of electron capture supernova progenitors: new models, improved nuclear physics and hydrodynamic mixing uncertainties__
@@ -222,7 +278,7 @@ Kavli Institute for the Physics and Mathematics of the Universe
 Tokyo, Japan
 
 ---
-
+<br>
 2013.10.29
 <br>
 __Supernovae from 8--12 solar mass stars: new stellar models__
@@ -234,7 +290,7 @@ Yukawa Institute for Theoretical Physics
 Kyoto, Japan
 
 ---
-
+<br>
 2013.06.18
 <br>
 __Low mass (type II) supernova (progenitors): the transition__
@@ -244,7 +300,7 @@ NuGrid collaboration meeting 2013, University of Victoria,
 Victoria, BC, Canada
 
 ---
-
+<br>
 2013.06.13
 <br>
 __Advanced evolution and fate of 8--10 M$$_\odot$$ stars__
@@ -254,7 +310,7 @@ Massive stars: from Alpha to Omega
 Rhodes, Greece
 
 ---
-
+<br>
 2013.01.29
 <br>
 __Progenitors of electron capture supernovae and related nuclear physics uncertainties__
@@ -264,7 +320,7 @@ Hirschegg 2013 - "Astrophysics and Nuclear Structure" (International Workshop XL
 Hirschegg, Kleinwalsertal, Austria
 
 ---
-
+<br>
 2012.11.26
 <br>
 __Impacts of convective boundary mixing and weak reaction uncertainties
@@ -275,7 +331,7 @@ EUROGENESIS MACHE meeting, Goethe University
 Frankfurt, Germany
 
 ---
-
+<br>
 2012.07.08
 <br>
 __The transition from super-AGB to massive star__
@@ -285,7 +341,7 @@ Institut für Kernphysik Theoriezentrum, TU Darmstadt
 Darmstadt, Germany
 
 ---
-
+<br>
 2012.02.08
 <br>
 __Stellar evolution at the boundary between white drawf and neutron star__
@@ -297,7 +353,7 @@ Keele University
 Keele, Staffordshire, United Kingdom
 
 ---
-
+<br>
 2011.09.05
 __Electron-capture supernova progenitor modelling__
 
@@ -310,7 +366,7 @@ University of Cambridge
 Cambridge, United Kingdom
 
 ----
-
+<br>
 2011.07.06
 <br>
 __Comprehensive nucleosynthesis simulations in Massive and super-AGB star models__
@@ -325,7 +381,19 @@ Victoria, BC, Canada
 # Poster Presentations
 
 ---
+<br>
+2017.03.20
+<br>
+__Hydrodynamic Simulations of the Oxygen Deflagration in ECSNe__
 
+KITP Workshop on Massive Stars
+<br>
+Santa Barbara, California
+<br>
+USA
+
+---
+<br>
 2014.07.07-11
 <br>
 __CANFAR software-as-a-service for NuGrid data exploration__
@@ -335,7 +403,7 @@ Nuclei in the Cosmos XIII
 Debrecen, Hungary
 
 ---
-
+<br>
 2012.09.10
 <br>
 __Final evolution and fates at the transition between massive and super-AGB stars__
@@ -347,7 +415,7 @@ ESO/MPA/MPE/Excellence Cluster Universe Conference
 Garching, Germany.
 
 ---
-
+<br>
 2012.03.12-16
 <br>
 __Life at the edge: Progenitors of the lowest mass core-collapse supernovae__
