@@ -40,7 +40,7 @@ for where you want silo to be built and to point to the correct hdf5 `lib` and
 $export SILO=/home/swj/softs/silo/silo-4.10-bsd/build
 
 # configure and build
-$ ./configure --prefix=$SILO/build --enable-pythonmodule \
+$ ./configure --prefix=$SILO --enable-pythonmodule \
 --with-hdf5=/usr/lib/x86_64-linux-gnu/hdf5/serial/include,/usr/lib/x86_64-linux-gnu/hdf5/serial/lib  
 $ make  
 $ make install
