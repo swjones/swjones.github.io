@@ -95,11 +95,9 @@ Next, we need to __configure it with our Boost installation__.
 
 >You'll notice that when I installed Boost on Mac using homebrew, I installed a
 package called boost-python as well, that provides the library
-`libboost_python`. For this reason, because I'm not a sudoer on my Mac, and
-because of slight differences in the Python installations I have on Debian
-(`python` is v2.7, `python3` is v3) and Mac (`python2.7` is v2.7 and `python`
-is v3), I had to configure PyUblas slightly differently on each machine, so
-I've just included both options here
+`libboost_python`. For this reason and because I'm not a sudoer on my Mac
+I had to configure PyUblas slightly differently on each machine, so I've just
+included both options here
 >
 
 __debian__:
@@ -113,8 +111,8 @@ __Mac__:
 
 ~~~bash
 $ export BOOST=/Users/swjones/softs/brew/Cellar/boost/1.64.0_1
-$ ./configure.py --python-exe=python2.7 --boost-inc-dir=$BOOST/include \
---boost-lib-dir=$BOOST/lib --boost-compiler=g++ \
+$ ./configure.py --python-exe=python --boost-inc-dir=$BOOST/include \
+--boost-lib-dir=$BOOST/lib --boost-compiler=gcc \
 --boost-python-libname=boost_python
 ~~~
 
@@ -139,7 +137,7 @@ __Mac__:
 ~~~bash
 $ make install
 $ cd test
-$ python2.7 test_pyublas.py
+$ python test_pyublas.py
 ~~~
 
 ## pyvisfile
@@ -170,7 +168,7 @@ __Mac__:
 ~~~bash
 $ export BOOST=/Users/swjones/softs/brew/Cellar/boost/1.64.0_1
 $ ./configure.py --use-silo --silo-inc-dir=$SILO/include \
---silo-lib-dir=$SILO/lib --python-exe=python2.7 \
+--silo-lib-dir=$SILO/lib --python-exe=python \
 --boost-inc-dir=$BOOST/include \
 --boost-lib-dir=$BOOST/lib --boost-compiler=gcc \
 --boost-python-libname=boost_python
