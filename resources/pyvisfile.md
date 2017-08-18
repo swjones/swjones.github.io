@@ -1,5 +1,6 @@
 ---
 layout: default
+exclude: true
 ---
 
 # Creating .silo files with [pyvisfile](https://mathema.tician.de/software/pyvisfile/)
