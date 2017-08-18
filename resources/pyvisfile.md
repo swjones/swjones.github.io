@@ -219,5 +219,5 @@ This seems to work wondefully, and I was able to load the new file `qmesh.silo`
 straight into VisIt and make the contour plot below. Thank you very much
 Andreas Kloeckner.
 
-<img style="float: center" src="content/qmesh.jpg" height="100%" width="100%">
+<img style="float: center" src="../content/qmesh.jpg" height="100%" width="100%">
 
