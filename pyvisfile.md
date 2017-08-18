@@ -2,8 +2,7 @@
 layout: default
 ---
 
-# Creating .silo files with
-[pyvisfile](https://mathema.tician.de/software/pyvisfile/)
+# Creating .silo files with [pyvisfile](https://mathema.tician.de/software/pyvisfile/)
 
 [Silo](https://wci.llnl.gov/simulation/computer-codes/silo) is an I/O library
 developed at [LLNL](https://www.llnl.gov/) for reading/writing scientific
@@ -87,25 +86,31 @@ between [NumPy](http://www.numpy.org/) and
 [Boost.Python](http://www.boost.org/doc/libs/1_64_0/libs/python/doc/html/index.html)
 (a C++ library enabling interoperability of C++ and Python).
 
-Firstly, we'll need to clone Kloeckner's PyUblas repo:
+Firstly, we'll need to __clone Kloeckner's PyUblas repo__:
 
 `$ git clone http://git.tiker.net/trees/pyublas.git`
 
-Next, we need to configure it with our Boost installation. You'll notice that
-when I installed Boost on Mac using homebrew, I installed a package called
-boost-python as well, that provides the library `libboost_python`. For this
-reason, because I'm not a sudoer on my Mac, and because of slight differences
-in the Python installations I have on Debian (`python` is v2.7, `python3` is
-vs) and Mac (`python2.7` is v2.7 and `python` is v3), I had to configure
-PyUblas slightly differently on each machine, so I've just included both
-options here:
+Next, we need to __configure it with our Boost installation__.
+
+>You'll notice that when I installed Boost on Mac using homebrew, I installed a
+package called boost-python as well, that provides the library
+`libboost_python`. For this reason, because I'm not a sudoer on my Mac, and
+because of slight differences in the Python installations I have on Debian
+(`python` is v2.7, `python3` is v3) and Mac (`python2.7` is v2.7 and `python`
+is v3), I had to configure PyUblas slightly differently on each machine, so
+I've just included both options here
+>
+
+__debian__:
 
 ~~~bash
-# debian:
 $ ./configure.py --python-exe=python --boost-inc-dir=/usr/include/boost \
 --boost-lib-dir=/usr/lib/x86_64-linux-gnu/lib --boost-compiler=gcc
+~~~
 
-# mac:
+__Mac__:
+
+~~~bash
 $ export BOOST=/Users/swjones/softs/brew/Cellar/boost/1.64.0_1
 $ ./configure.py --python-exe=python2.7 --boost-inc-dir=$BOOST/include \
 --boost-lib-dir=$BOOST/lib --boost-compiler=g++ \
@@ -116,17 +121,21 @@ note that if you are still having trouble to compile, you can run `./configure
 --help` to see the default configuration options, that may not be correct for
 your system.
 
-now we can build and test PyUblas:
+now we can __build and test PyUblas__:
+
+```$ make```
+
+__debian__:
 
 ~~~bash
-$ make
-
-# debian:
 $ sudo make install
 $ cd test
 $ python test_pyublas.py
+~~~
 
-# mac:
+__Mac__:
+
+~~~bash
 $ make install
 $ cd test
 $ python2.7 test_pyublas.py
@@ -140,42 +149,39 @@ Clone `pyvisfile` git repo:
 
 `$ git clone git@github.com:inducer/pyvisfile.git`
 
-and configure it (again, I have separated out configuration options that I used
-on Debian vs Mac):
+and configure it, and then build (again, I have separated out configuration
+options that I used on Debian vs Mac, but the differences are mostly
+system-dependent rather than OS dependent):
+
+__debian__:
 
 ~~~bash
-# debian:
 $ ./configure.py --use-silo --silo-inc-dir=$SILO/include \
 --silo-lib-dir=$SILO/lib --python-exe=python \
 --boost-inc-dir=/usr/include/boost \
 --boost-lib-dir=/usr/lib/x86_64-linux-gnu/lib --boost-compiler=gcc
+$ make
+$ sudo make install
+~~~
 
-# Mac:
+__Mac__:
+
+~~~bash
 $ export BOOST=/Users/swjones/softs/brew/Cellar/boost/1.64.0_1
 $ ./configure.py --use-silo --silo-inc-dir=$SILO/include \
 --silo-lib-dir=$SILO/lib --python-exe=python2.7 \
 --boost-inc-dir=$BOOST/include \
 --boost-lib-dir=$BOOST/lib --boost-compiler=gcc \
 --boost-python-libname=boost_python
-~~~
-
-again, note that if you are still having trouble to compile, you can run
-`./configure --help` to see the default configuration options, that may not be
-correct for your system.
-
-now we can build pyvisfile:
-
-~~~bash
 $ make
-
-# debian:
-$ sudo make install
-
-# Mac:
 $ make install
 ~~~
 
-# example use case
+Again, note that if you are still having trouble to compile, you can run
+`./configure --help` to see the default configuration options, which may not be
+correct for your system.
+
+## creating silo files: examples
 
 Andreas Kloeckner provides some useful
 [examples](https://github.com/inducer/pyvisfile/tree/master/examples) in his
@@ -203,3 +209,10 @@ f.put_quadvar1("value", "meshxy", numpy.asarray(value, order="F"), value.shape,
 
 f.close()
 ~~~
+
+This seems to work wondefully, and I was able to load the new file `qmesh.silo`
+straight into VisIt and make the contour plot below. Thank you very much
+Andreas Kloeckner.
+
+<img style="float: center" src="content/qmesh.jpeg" height="100%" width="100%">
+
