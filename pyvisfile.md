@@ -69,8 +69,10 @@ On __debian/ubuntu__ you can install the Boost Debian package:
 
 or if you're a __Mac__ user you can install using homebrew:
 
-`$ brew install boost`
-`$ brew install boost-python`
+~~~bash
+$ brew install boost
+$ brew install boost-python
+~~~
 
 Alternatively, you could __build from the
 [source](http://www.boost.org/users/download/)__, which I have not tried
@@ -87,53 +89,98 @@ between [NumPy](http://www.numpy.org/) and
 
 Firstly, we'll need to clone Kloeckner's PyUblas repo:
 
-`$ git clone http://git.tiker.net/trees/pyublas.git`,
+`$ git clone http://git.tiker.net/trees/pyublas.git`
 
-configure it with our Boost installation
+Next, we need to configure it with our Boost installation. You'll notice that
+when I installed Boost on Mac using homebrew, I installed a package called
+boost-python as well, that provides the library `libboost_python`. For this
+reason, because I'm not a sudoer on my Mac, and because of slight differences
+in the Python installations I have on Debian (`python` is v2.7, `python3` is
+vs) and Mac (`python2.7` is v2.7 and `python` is v3), I had to configure
+PyUblas slightly differently on each machine, so I've just included both
+options here:
 
 ~~~bash
+# debian:
 $ ./configure.py --python-exe=python --boost-inc-dir=/usr/include/boost \
 --boost-lib-dir=/usr/lib/x86_64-linux-gnu/lib --boost-compiler=gcc
+
+# mac:
+$ export BOOST=/Users/swjones/softs/brew/Cellar/boost/1.64.0_1
+$ ./configure.py --python-exe=python2.7 --boost-inc-dir=$BOOST/include \
+--boost-lib-dir=$BOOST/lib --boost-compiler=g++ \
+--boost-python-libname=boost_python
 ~~~
 
-build it
+note that if you are still having trouble to compile, you can run `./configure
+--help` to see the default configuration options, that may not be correct for
+your system.
+
+now we can build and test PyUblas:
 
 ~~~bash
 $ make
+
+# debian:
 $ sudo make install
-~~~
-
-and test is
-
-~~~
 $ cd test
 $ python test_pyublas.py
+
+# mac:
+$ make install
+$ cd test
+$ python2.7 test_pyublas.py
 ~~~
 
 ## pyvisfile
 
-1. clone pyvisfile git repo:
+Now we are ready to install [`pyvisfile`](https://github.com/inducer/pyvisfile).
 
-`git clone git@github.com:inducer/pyvisfile.git`
+Clone `pyvisfile` git repo:
 
-1. configure pyvisfile:
-`./configure.py --use-silo --silo-inc-dir=$SILO/include \
---silo-lib-dir=$SILO/lib --python-exe=python \
---boost-inc-dir=/usr/include/boost \
---boost-lib-dir=/usr/lib/x86_64-linux-gnu/lib --boost-compiler=gcc`
+`$ git clone git@github.com:inducer/pyvisfile.git`
 
-1. build pyvisfile:
+and configure it (again, I have separated out configuration options that I used
+on Debian vs Mac):
 
 ~~~bash
-make
-sudo make install
+# debian:
+$ ./configure.py --use-silo --silo-inc-dir=$SILO/include \
+--silo-lib-dir=$SILO/lib --python-exe=python \
+--boost-inc-dir=/usr/include/boost \
+--boost-lib-dir=/usr/lib/x86_64-linux-gnu/lib --boost-compiler=gcc
+
+# Mac:
+$ export BOOST=/Users/swjones/softs/brew/Cellar/boost/1.64.0_1
+$ ./configure.py --use-silo --silo-inc-dir=$SILO/include \
+--silo-lib-dir=$SILO/lib --python-exe=python2.7 \
+--boost-inc-dir=$BOOST/include \
+--boost-lib-dir=$BOOST/lib --boost-compiler=gcc \
+--boost-python-libname=boost_python
+~~~
+
+again, note that if you are still having trouble to compile, you can run
+`./configure --help` to see the default configuration options, that may not be
+correct for your system.
+
+now we can build pyvisfile:
+
+~~~bash
+$ make
+
+# debian:
+$ sudo make install
+
+# Mac:
+$ make install
 ~~~
 
 # example use case
 
-Andreas Kloeckner provides some useful examples in his repository for pyvisfile
-for how to write silo files. Here is one that creates a 2D mesh with some
-scalar quantity:
+Andreas Kloeckner provides some useful
+[examples](https://github.com/inducer/pyvisfile/tree/master/examples) in his
+repository for pyvisfile for how to write silo files. Here is one that creates
+a 2D mesh with some scalar quantity:
 
 ~~~python
 # modified from original code by Matthieu Haefele (IPP, Max-Planck-Gesellschaft)
