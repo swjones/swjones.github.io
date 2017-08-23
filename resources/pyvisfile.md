@@ -13,6 +13,8 @@ tools. Silo files are also the default input format for the visualisation
 program [VisIt](https://wci.llnl.gov/simulation/computer-codes/visit), which
 was also developed at LLNL.
 
+__For installation instructions on moonlight, click [here](moonlight-silo)__
+
 # Installation of pyvisfile and its dependencies
 
 ## Silo
