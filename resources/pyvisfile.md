@@ -180,7 +180,7 @@ Again, note that if you are still having trouble to compile, you can run
 `./configure --help` to see the default configuration options, which may not be
 correct for your system.
 
-Finally (depending on how you like to do/have done things), you may beed to append
+Finally (depending on how you like to do/have done things), you may need to append
 pyvisfile and pyublas to your `PYTHONPATH`.
 
 
