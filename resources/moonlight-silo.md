@@ -25,7 +25,7 @@ the version of libgcc in the anaconda environment:
 
 Next we can configure, build and test pyublas:
 
-~~bash
+~~~bash
 $ ./configure.py --python-exe=python \
 			    --boost-inc-dir=$BOOST_INC_DIR \
 			    --boost-lib-dir=$BOOST_LIB_DIR \
