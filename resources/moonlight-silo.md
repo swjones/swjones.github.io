@@ -3,26 +3,27 @@ layout: default
 exclude: true
 ---
 
-# installing pyvisfile on moonlight
+# Installing pyvisfile on moonlight
 
-modules loaded:
+First of all, here are the modules I have loaded:
+
 `git, subversion, gcc, hdf5-serial, openmpi, python, user_contrib, silo/4.10.2,
 boost/1.62.0`
 
-create a python 2.7 conda environment and activate it:
+Next, create a python 2.7 conda environment and activate it:
 
-~~bash
+~~~bash
 $ conda create -n py27 python=2.7 anaconda
 $ source activate py27
 ~~~
 
-now, there is some mis-match of libgcc in anaconda and this version
+Now, there is some mis-match of libgcc in anaconda and this version
 of pyublas/boost, whatever. This can be rectified by installing/upgrading
 the version of libgcc in the anaconda environment:
 
 `$ conda install libgcc`
 
-now configure, build and test pyublas:
+Next we can configure, build and test pyublas:
 
 ~~bash
 $ ./configure.py --python-exe=python \
@@ -36,7 +37,7 @@ $ cd test
 $ python test_pyublas.py
 ~~~
 
-configure and build pyvisfile:
+Finally, configure and build pyvisfile:
 
 ~~~bash
 $ ./configure.py --use-silo \
@@ -51,7 +52,7 @@ $ make
 $ make install
 ~~~
 
-lastly, importing pyvisfile.silo throws an error that it cannot find
+Importing pyvisfile.silo throws an error that it cannot find
 libsiloh5.so. this seems to be rectified by appending `$SILO_LIB_DIR` to your
 `$LD_LIBRARY_PATH`:
 
