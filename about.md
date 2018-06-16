@@ -58,7 +58,7 @@ eprints](http://arxiv.org/abs/1605.03766); right)_
 # Music
 
 I write music as part of a collective of musicians based in London, UK called
-[Interlaken](http://www.artistecard.com/interlaken). It is a project that is
+[Interlaken](https://interlakenmusic.bandcamp.com/). It is a project that is
 constantly evolving. From time to time new demos or recorded tracks appear on
 the [Interlaken SoundCloud page](https://soundcloud.com/interlaken_music). Feel
 free to take a listen and let me know what you think!
