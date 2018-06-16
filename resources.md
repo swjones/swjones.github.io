@@ -4,6 +4,8 @@ title: Resources
 permalink: /resources/
 ---
 
+[//]: * [Building acoustic absorption panels](../resources/absorbers)
+
 * [Installing Silo and pyvisfile](../resources/pyvisfile) for writing `*.silo` files for
   VisIt visualisations
 
