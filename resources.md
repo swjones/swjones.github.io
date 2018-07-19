@@ -4,6 +4,8 @@ title: Resources
 permalink: /resources/
 ---
 
+* [Collapsing 1d electron-capture supernova data](../resources/H01a1d)
+
 [//]: * [Building acoustic absorption panels](../resources/absorbers)
 
 * [Installing Silo and pyvisfile](../resources/pyvisfile) for writing `*.silo` files for
