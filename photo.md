@@ -1,13 +1,25 @@
 ---
-layout: barebones
-no_footer: true
-wide_layout: true
+layout: page
 title: Photographs
-description: Photographs
-ios_app_name: photo
+permalink: /photographs/
 ---
-<script type="text/javascript" charset="utf-8">
-document.location.href = 'https://www.dropbox.com/sh/w35taqglf08t809/AACVLcydq3MQxjhPqUEjJx0Da?dl=0';
-</script>
 
-<a href="https://www.dropbox.com/sh/w35taqglf08t809/AACVLcydq3MQxjhPqUEjJx0Da?dl=0">Forwards</a>
+You can find some of my photographs on my [DeviantArt page](https://www.deviantart.com/fatrascals/gallery).
+
+I enjoy both film and digital photography. Here are some of the cameras I have
+owned and enjoyed using over the years. Always interested to hear
+recommendations.
+
+Film
+---
+Olympus OM10
+Olympus OM20
+Minolta X700
+Rollei 35
+
+Digital
+---
+Nikon D3000
+Olympus Pen E-PL7
+Canon EOS Rebel T7
+
