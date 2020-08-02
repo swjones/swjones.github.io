@@ -4,6 +4,8 @@ title: Photographs
 permalink: /photographs/
 ---
 
+<img style="float: right" src="../content/DSC_0001.JPG" height="40%" width="40%">
+
 You can find some of my photographs on my [DeviantArt page](https://www.deviantart.com/fatrascals/gallery).
 
 I enjoy both film and digital photography. Here are some of the cameras I have
