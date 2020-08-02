@@ -4,7 +4,7 @@ title: Photographs
 permalink: /photographs/
 ---
 
-<img style="float: right" src="../content/DSC_0001.JPG" height="40%" width="40%">
+<img style="float: right" src="../content/DSC_0545_graded_small.jpeg" height="40%" width="40%">
 
 You can find some of my photographs on my [DeviantArt page](https://www.deviantart.com/fatrascals/gallery).
 
