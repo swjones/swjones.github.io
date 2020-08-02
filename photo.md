@@ -4,13 +4,14 @@ title: Photographs
 permalink: /photographs/
 ---
 
-<img style="float: right" src="../content/DSC_0545_graded_small.jpeg" height="40%" width="40%">
 
 You can find some of my photographs on my [DeviantArt page](https://www.deviantart.com/fatrascals/gallery).
 
 I enjoy both film and digital photography. Here are some of the cameras I have
 owned and enjoyed using over the years. Always interested to hear
 recommendations.
+
+<img style="float: right" src="../content/DSC_0545_graded_small.jpeg" height="40%" width="40%">
 
 Film
 ---
