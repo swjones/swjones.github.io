@@ -11,7 +11,7 @@ I enjoy both film and digital photography. Here are some of the cameras I have
 owned and enjoyed using over the years. Always interested to hear
 recommendations.
 
-<img style="float: right" src="../content/DSC_0545_graded_small.jpeg" height="75%" width="75%">
+<img style="float: right" src="../content/DSC_0545_graded_small.jpeg" height="50%" width="50%">
 
 Film
 ---
