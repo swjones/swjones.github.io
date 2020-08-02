@@ -12,14 +12,14 @@ recommendations.
 
 Film
 ---
-Olympus OM10
-Olympus OM20
-Minolta X700
-Rollei 35
+* Olympus OM10
+* Olympus OM20
+* Minolta X700
+* Rollei 35
 
 Digital
 ---
-Nikon D3000
-Olympus Pen E-PL7
-Canon EOS Rebel T7
+* Nikon D3000
+* Olympus Pen E-PL7
+* Canon EOS Rebel T7
 
