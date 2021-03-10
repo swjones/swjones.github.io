@@ -18,6 +18,8 @@ Film
 * Olympus OM20
 * Minolta X700
 * Rollei 35
+* Minolta Maxxum 7000
+* Minox 35GT
 
 Digital
 ---
