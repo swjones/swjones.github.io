@@ -30,7 +30,7 @@ Jazz videos
 Some performances are [on YouTube](https://www.youtube.com/channel/UC3ZWIGMG6HZFz-5yePfdZ2A).
 
 <div class="box">
-  <iframe src="https://www.youtube.com/embed/tXqyDNS22SM" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen frameborder="0" width="50%" align="center"></iframe>
+  <iframe src="https://www.youtube.com/embed/tXqyDNS22SM" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen frameborder="0" width="50%" height="385" align="center"></iframe>
 </div>
 
 
