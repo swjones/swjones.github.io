@@ -5,7 +5,7 @@ permalink: /music/
 ---
 
 <div class="images">
-  <img src="../content/sam_gtr_small.jpeg">
+  <img src="../content/sam_gtr_small.jpeg"></img>
   <iframe src="https://www.youtube.com/embed/tXqyDNS22SM" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <iframe src="https://open.spotify.com/embed/album/0AoOgrH4Gsdl45BjwQeOGu" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
