@@ -4,17 +4,17 @@ title: Music
 permalink: /music/
 ---
 
-<div class="images">
-  <img src="../content/sam_gtr_small.jpeg"><
-  <iframe src="https://www.youtube.com/embed/tXqyDNS22SM" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-  <iframe src="https://open.spotify.com/embed/album/0AoOgrH4Gsdl45BjwQeOGu" allowtransparency="true" allow="encrypted-media">
+<div class="box">
+  <iframe src="https://www.youtube.com/embed/tXqyDNS22SM" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen frameborder="0" width="100%" height="512" align="left"></iframe>
 </div>
 
-.images img {
-  width: 100px;
-  height: 100px;
-  float: left;
-}
+<div class="box">
+  <iframe src="https://open.spotify.com/embed/album/0AoOgrH4Gsdl45BjwQeOGu" frameborder="0" scrolling="no" width="100%" height="512" align="center" allowtransparency="true" allow="encrypted-media"></iframe>
+</div>
+
+<div class="box">
+  <img src="../content/sam_gtr_small.jpeg" frameborder="0" width="100%" height="512" align="right"></img>
+</div>
 
 I've been playing and making music for a long time. Here are some of my current
 projects.
