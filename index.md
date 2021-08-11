@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Samuel Jones
 ---
 
 <img style="float: right" src="../content/sam_gtr_small.jpeg" height="40%" width="40%">
@@ -11,7 +12,8 @@ Computational Physics (XCP)
 Division](https://www.lanl.gov/org/padwp/adx/computational-physics/index.php)
 at [Los Alamos National Laboratory (LANL)](http://www.lanl.gov/).
 
-##My Journey (so far)
+My Journey (so far)
+---
 
 Prior to my position as a staff scientist in XCP-2 at LANL I was a [Director's
 Fellow](http://www.lanl.gov/careers/career-options/postdoctoral-research/postdoc-program/postdoc-appointment-types.php)

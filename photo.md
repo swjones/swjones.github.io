@@ -4,9 +4,6 @@ title: Photographs
 permalink: /photographs/
 ---
 
-<img style="float: right" src="../content/DSC_0545_graded_small.jpeg" height="50%" width="50%">
-
-<!-- Embed flickr photostream --!>
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/193314373@N07" title=""><img src="https://live.staticflickr.com/65535/51303441677_96c80df1b2.jpg" width="640" height="480" alt=""></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 I enjoy both film and digital photography, including developing and scanning my
