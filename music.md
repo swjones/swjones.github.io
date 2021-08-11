@@ -4,8 +4,9 @@ title: Music
 permalink: /music/
 ---
 
-<img style="float: left" src="../content/sam_gtr_small.jpeg" height="60%" width="60%">
-<iframe style="float: right" src="https://open.spotify.com/embed/album/0AoOgrH4Gsdl45BjwQeOGu" width="40%" height="280" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<img style="float: left" src="../content/sam_gtr_small.jpeg" height="60%" width="33%">
+<iframe width="33%" height="315" src="https://www.youtube.com/embed/tXqyDNS22SM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="float: right" src="https://open.spotify.com/embed/album/0AoOgrH4Gsdl45BjwQeOGu" width="33%" height="280" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 I've been playing and making music for a long time. Here are some of my current
 projects.
@@ -23,7 +24,6 @@ Solo jazz noodlings
 ---
 Some performances are [on YouTube](https://www.youtube.com/channel/UC3ZWIGMG6HZFz-5yePfdZ2A).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tXqyDNS22SM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Interlaken
 ---
