@@ -38,3 +38,5 @@ Interlaken
 ---
 My longest-running project with Tom Duncan. It's a mix of alternative and
 electronic music. It is available [here on Bandcamp](https://interlakenmusic.bandcamp.com/).
+
+<iframe align="center" style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3967339132/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://interlakenmusic.bandcamp.com/album/landfill-ghosts">Landfill Ghosts by Interlaken</a></iframe>
