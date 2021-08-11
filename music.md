@@ -4,8 +4,17 @@ title: Music
 permalink: /music/
 ---
 
-<img style="float: left" src="../content/sam_gtr_small.jpeg" height="60%" width="50%">
-<iframe width="50%" height="315" src="https://www.youtube.com/embed/tXqyDNS22SM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="images">
+  <img src="../content/sam_gtr_small.jpeg">
+  <iframe src="https://www.youtube.com/embed/tXqyDNS22SM" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe src="https://open.spotify.com/embed/album/0AoOgrH4Gsdl45BjwQeOGu" allowtransparency="true" allow="encrypted-media"></iframe>
+</div>
+
+.images img {
+  width: 100px;
+  height: 100px;
+  float: left;
+}
 
 I've been playing and making music for a long time. Here are some of my current
 projects.
@@ -13,8 +22,6 @@ projects.
 Temples Of Pluto
 ---
 [www.templesofpluto.com](www.templesofpluto.com)
-
-<iframe style="float: left" src="https://open.spotify.com/embed/album/0AoOgrH4Gsdl45BjwQeOGu" width="33%" height="280" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Writing, recording and performing original music with elements of funk, jazz,
 soul and blues with Juan Aniceto, Bryan Bakevich, Joe Hecker and Kevin Sennott.
