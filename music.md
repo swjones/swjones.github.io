@@ -5,7 +5,7 @@ permalink: /music/
 ---
 
 <div class="box">
-  <img src="../content/sam_gtr_small.jpeg" frameborder="0" width="50%" align="center"
+  <img src="../content/sam_gtr_small.jpeg" frameborder="0" width="50%" align="center">
 </div>
 I've been playing and making music for a long time. Here are some of my current
 projects.
