@@ -16,6 +16,14 @@ permalink: /music/
   <img src="../content/sam_gtr_small.jpeg" frameborder="0" width="100%" height="512" align="right"></img>
 </div>
 
+.box{
+    float: left;
+    margin-right: 20px;
+}
+.clear{
+    clear: both;
+}
+
 I've been playing and making music for a long time. Here are some of my current
 projects.
 
