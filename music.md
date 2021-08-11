@@ -5,7 +5,7 @@ permalink: /music/
 ---
 
 <div class="box">
-  <img src="../content/sam_gtr_small.jpeg" frameborder="0" width="50%" align="right">
+  <img src="../content/sam_gtr_small.jpeg" frameborder="0" width="50%" align="left">
 </div>
 I've been playing and making music for a long time. Here are some of my current
 projects.
@@ -15,7 +15,7 @@ Temples Of Pluto
 [www.templesofpluto.com](www.templesofpluto.com)
 
 <div class="box">
-  <iframe src="https://open.spotify.com/embed/album/0AoOgrH4Gsdl45BjwQeOGu" frameborder="0" scrolling="no" width="30%" align="right" allowtransparency="true" allow="encrypted-media"></iframe>
+  <iframe src="https://open.spotify.com/embed/album/0AoOgrH4Gsdl45BjwQeOGu" frameborder="0" scrolling="no" width="30%" align="left" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
 
@@ -29,7 +29,7 @@ Jazz videos
 Some performances are [on YouTube](https://www.youtube.com/channel/UC3ZWIGMG6HZFz-5yePfdZ2A).
 
 <div class="box">
-  <iframe src="https://www.youtube.com/embed/tXqyDNS22SM" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen frameborder="0" width="50%" align="right"></iframe>
+  <iframe src="https://www.youtube.com/embed/tXqyDNS22SM" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen frameborder="0" width="50%" align="left"></iframe>
 </div>
 
 
