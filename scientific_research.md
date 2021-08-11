@@ -1,36 +1,24 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Scientific Research
+permalink: /scientific_research/
 ---
 
-<img style="float: right" src="../content/DSC_0001.JPG" height="40%" width="40%">
-
-I am an astrophysicist and a staff scientist in the [X Computational Physics
-(XCP)
-Division](https://www.lanl.gov/org/padwp/adx/computational-physics/index.php)
-at [Los Alamos National Laboratory (LANL)](http://www.lanl.gov/) in New Mexico,
-USA. My research focuses on the evolution and explosion of stars and the origin
+My research focuses on the evolution and explosion of stars and the origin
 of the elements; a large part of which involves performing computer
 simulations.  I am also a part of the [NuGrid
 collaboration](www.nugridstars.org): an international group of scientists
 working on problems related to stellar evolution, supernovae and
 nucleosynthesis.
 
-Prior to my position as a staff scientist in XCP-2 at LANL I was a [Director's
-Fellow](http://www.lanl.gov/careers/career-options/postdoctoral-research/postdoc-program/postdoc-appointment-types.php)
-in the [Computational Physics and Methods
-(CCS-2)](http://www.lanl.gov/org/padste/adtsc/computer-computational-statistical-sciences/computational-physics-methods/index.php)
-here at the lab. Before that I was an [Alexander von
-Humboldt](http://www.humboldt-foundation.de/web/home.html) Fellow at
-[HITS](www.h-its.org), prior to which I was a post-doctoral research fellow in
-[Dr. Falk Herwig](www.astro.uvic.ca/~fherwig)'s [Computational Stellar
-Astrophysics (CSA)](http://csa.phys.uvic.ca) research group at the University
-of Victoria in beautiful British Columbia, Canada.  I did my Ph.D. in physics
-at [Keele University](http://www.keele.ac.uk/) under the supervision of [Dr.
-Raphael Hirschi](http://www.astro.keele.ac.uk/~hirschi).
+You can find/read my scientific publications by any of the following means.
 
-# Research
+My ORCID is: [0000-0003-3970-1843](http://orcid.org/0000-0003-3970-1843)  
+
+You can find my publication list [here in classic
+ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=Samuel+Jones+Bibliography&libid=56f53bf0b4)
+or [here in
+ADSbeta](https://ui.adsabs.harvard.edu/#/public-libraries/K2at6KkbRSGMdRjfi6wOhg).
 
 Pictured below are two images from my research. They are [volume
 renderings](https://en.wikipedia.org/wiki/Volume_rendering) of data from 3D
@@ -52,7 +40,7 @@ my publications and talks are available via the links at the top of the page.
 
 ---
 
-_photo: Peter Saueressig/HITS (top); S. Jones, F. K. R&ouml;pke, R.  Pakmor, I.
+_photo: S. Jones, F. K. R&ouml;pke, R.  Pakmor, I.
 R. Seitenzahl, S.  T. Ohlmann & P. V. F. Edelmann (2016; [arXiv
 eprints](http://arxiv.org/abs/1602.05771); left); S. Jones, R. Andrassy, S.
 Sandalski, A. Davis, P. Woodward & F.Herwig (2016; [arXiv

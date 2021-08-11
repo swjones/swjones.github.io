@@ -13,12 +13,14 @@ Solo jazz noodlings
 ---
 Some performances, generally of standards, are [here on YouTube](https://www.youtube.com/channel/UC3ZWIGMG6HZFz-5yePfdZ2A).
 
-Illuminations
+Temples Of Pluto
 ---
-Currently my most active project. Writing, recording and performing original
-music with elements of funk, jazz, soul and blues with Juan Aniceto, Bryan
-Bakevich, Joe Hecker and Kevin Sennott.
-I will have a link to recordings as soon as some are available.
+[www.templesofpluto.com](www.templesofpluto.com)
+Writing, recording and performing original music with elements of funk, jazz,
+soul and blues with Juan Aniceto, Bryan Bakevich, Joe Hecker and Kevin Sennott.
+
+You can hear our music on all major streaming platforms or on our website
+linked above.
 
 Interlaken
 ---
