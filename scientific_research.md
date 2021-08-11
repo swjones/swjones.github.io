@@ -4,12 +4,18 @@ title: Scientific Research
 permalink: /scientific_research/
 ---
 
-My research focuses on the evolution and explosion of stars and the origin
-of the elements; a large part of which involves performing computer
-simulations.  I am also a part of the [NuGrid
-collaboration](www.nugridstars.org): an international group of scientists
-working on problems related to stellar evolution, supernovae and
-nucleosynthesis.
+<img style="float: right" src="../content/ecsn_ye_small.png" height="100%" width="100%">
+<img style="float: left" src="../content/nse.png" height="100%" width="100%">
+
+I have a broad range of research interests including the evolution and
+explosion of stars and the astrophysical origin of the chemical elements,
+plasma physics and confinement fusion, turbulence and, especially, numerical
+methods for simulating all of the above.
+
+<img style="float: center" src="../content/gce.png" height="100%" width="100%">
+
+A large part of my work involves performing computer simulations and designing
+techniques for doing so.
 
 You can find/read my scientific publications by any of the following means.
 
@@ -42,7 +48,7 @@ my publications and talks are available via the links at the top of the page.
 
 _photo: S. Jones, F. K. R&ouml;pke, R.  Pakmor, I.
 R. Seitenzahl, S.  T. Ohlmann & P. V. F. Edelmann (2016; [arXiv
-eprints](http://arxiv.org/abs/1602.05771); left); S. Jones, R. Andrassy, S.
+eprints](http://arxiv.org/abs/1602.05771); red deflagration); S. Jones, R. Andrassy, S.
 Sandalski, A. Davis, P. Woodward & F.Herwig (2016; [arXiv
-eprints](http://arxiv.org/abs/1605.03766); right)_
+eprints](http://arxiv.org/abs/1605.03766); turbulent convection slice)_
 
