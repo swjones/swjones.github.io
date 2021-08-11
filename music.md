@@ -7,6 +7,7 @@ permalink: /music/
 <div class="box">
   <img src="../content/sam_gtr_small.jpeg" frameborder="0" width="50%" align="center">
 </div>
+
 I've been playing and making music for a long time. Here are some of my current
 projects.
 
@@ -15,7 +16,7 @@ Temples Of Pluto
 [www.templesofpluto.com](www.templesofpluto.com)
 
 <div class="box">
-  <iframe src="https://open.spotify.com/embed/album/0AoOgrH4Gsdl45BjwQeOGu" frameborder="0" scrolling="no" width="60%" height="280" align="left" allowtransparency="true" allow="encrypted-media"></iframe>
+  <iframe src="https://open.spotify.com/embed/album/0AoOgrH4Gsdl45BjwQeOGu" frameborder="0" scrolling="no" width="60%" height="280" align="center" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
 
@@ -29,7 +30,7 @@ Jazz videos
 Some performances are [on YouTube](https://www.youtube.com/channel/UC3ZWIGMG6HZFz-5yePfdZ2A).
 
 <div class="box">
-  <iframe src="https://www.youtube.com/embed/tXqyDNS22SM" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen frameborder="0" width="50%" align="left"></iframe>
+  <iframe src="https://www.youtube.com/embed/tXqyDNS22SM" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen frameborder="0" width="50%" align="center"></iframe>
 </div>
 
 
