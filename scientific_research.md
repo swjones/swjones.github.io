@@ -4,15 +4,15 @@ title: Scientific Research
 permalink: /scientific_research/
 ---
 
-<img style="float: right" src="../content/ecsn_ye_small.png" height="100%" width="100%">
-<img style="float: left" src="../content/nse.png" height="100%" width="100%">
+<img style="float: right" src="../content/ecsn_ye_small.png" width="66%">
 
 I have a broad range of research interests including the evolution and
 explosion of stars and the astrophysical origin of the chemical elements,
 plasma physics and confinement fusion, turbulence and, especially, numerical
 methods for simulating all of the above.
 
-<img style="float: center" src="../content/gce.png" height="100%" width="100%">
+<img style="float: center" src="../content/nse.png" width="66%">
+
 
 A large part of my work involves performing computer simulations and designing
 techniques for doing so.
@@ -25,6 +25,8 @@ You can find my publication list [here in classic
 ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=Samuel+Jones+Bibliography&libid=56f53bf0b4)
 or [here in
 ADSbeta](https://ui.adsabs.harvard.edu/#/public-libraries/K2at6KkbRSGMdRjfi6wOhg).
+
+<img style="float: center" src="../content/gce.png" width="66%">
 
 Pictured below are two images from my research. They are [volume
 renderings](https://en.wikipedia.org/wiki/Volume_rendering) of data from 3D
