@@ -4,7 +4,7 @@ title: Scientific Research
 permalink: /scientific_research/
 ---
 
-<img style="float: right" src="../content/nse.png" width="33%">
+<img style="float: center" src="../content/nse.png" width="50%">
 
 I have a broad range of research interests including the evolution and
 explosion of stars and the astrophysical origin of the chemical elements,
@@ -13,20 +13,17 @@ methods for simulating all of the above.
 
 <img style="float: center" src="../content/ecsn_ye_small.png" width="50%">
 
-
 A large part of my work involves performing computer simulations and designing
-techniques for doing so.
+techniques for doing so.  You can find/read my scientific publications by any of the following means.
 
-You can find/read my scientific publications by any of the following means.
+* My ORCID is: [0000-0003-3970-1843](http://orcid.org/0000-0003-3970-1843)  
 
-My ORCID is: [0000-0003-3970-1843](http://orcid.org/0000-0003-3970-1843)  
-
-You can find my publication list [here in classic
+* publication list [in classic
 ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=Samuel+Jones+Bibliography&libid=56f53bf0b4)
-or [here in
+or [in
 ADSbeta](https://ui.adsabs.harvard.edu/#/public-libraries/K2at6KkbRSGMdRjfi6wOhg).
 
-<img style="float: center" src="../content/gce.png" width="66%">
+<img style="float: center" src="../content/gce.png" width="50%">
 
 Pictured below are two images from my research. They are [volume
 renderings](https://en.wikipedia.org/wiki/Volume_rendering) of data from 3D
@@ -44,7 +41,7 @@ You can read more about me and my work in [this
 article](http://www.h-its.org/news/simulating-the-death-of-stars/). A list of
 my publications and talks are available via the links at the top of the page.
 
-<img style="float: center" src="../content/G14-nifs-and-D2-FV.jpg" height="100%" width="100%">
+<img style="float: center" src="../content/G14-nifs-and-D2-FV.jpg" width="60%">
 
 ---
 
