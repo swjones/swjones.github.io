@@ -4,14 +4,14 @@ title: Scientific Research
 permalink: /scientific_research/
 ---
 
-<img style="float: right" src="../content/ecsn_ye_small.png" width="66%">
+<img style="float: right" src="../content/nse.png" width="33%">
 
 I have a broad range of research interests including the evolution and
 explosion of stars and the astrophysical origin of the chemical elements,
 plasma physics and confinement fusion, turbulence and, especially, numerical
 methods for simulating all of the above.
 
-<img style="float: center" src="../content/nse.png" width="66%">
+<img style="float: center" src="../content/ecsn_ye_small.png" width="50%">
 
 
 A large part of my work involves performing computer simulations and designing
